@@ -17,3 +17,6 @@ Outcomes
 - Demonstrated ability to translate complex datasets into clear, recruiter-friendly dashboards.
 - Showcased data storytelling by connecting KPIs with business decisions.
 - Built a portfolio-ready project that reflects real-world analytics scenarios.
+- <img width="931" height="545" alt="powerbi project2" src="https://github.com/user-attachments/assets/fd4207ad-c738-41ea-a342-831f3adcda7f" />
+<img width="947" height="538" alt="powerbi project1" src="https://github.com/user-attachments/assets/41df7d8b-8909-46fa-a460-5f20a23d4e12" />
+
